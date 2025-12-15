@@ -1,1 +1,1 @@
-Techical concetps review for the DS/DA interview. 
+Technical concepts review for the DS/DA interview. 
